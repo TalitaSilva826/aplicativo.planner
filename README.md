@@ -1,16 +1,52 @@
-# flutter_application_1
+# Aplicativo de planejamento de rotina! 
 
-A new Flutter project.
+Um aplicativo Flutter criado para ajudar você a planejar tarefas, organizar o dia e acompanhar sua rotina de forma simples e intuitiva.
+Criado com Flutter + Dart, focado em praticidade, beleza e experiência fluida.
 
-## Getting Started
+# Funcionalidades
 
-This project is a starting point for a Flutter application.
+✔️ Adicionar novas tarefas
+✔️ Selecionar uma data para cada tarefa
+✔️ Visualizar tarefas do dia escolhido
+✔️ Interface moderna e minimalista
+✔️ Separação organizada por páginas, temas e widgets
 
-A few resources to get you started if this is your first Flutter project:
+# Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material Design
+- Gerenciamento de estado com StatefulWidgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Objetivo do Projeto
+
+Criar um planner simples, elegante e funcional que permita visualizar tarefas diárias de maneira rápida e clara, ajudando na rotina e produtividade.
+
+# Como rodar o projeto
+
+Certifique-se de ter o Flutter instalado:
+
+flutter doctor
+
+Clone o repositório:
+
+git clone https://github.com/TalitaSilva826/aplicativo.planner.git
+
+Instale as dependências:
+
+flutter pub get
+
+Execute o app:
+
+flutter run
+
+# Próximas melhorias
+
+Notificações de lembrete
+Marcar tarefa como concluída
+Modo escuro
+Sincronização na nuvem
+
+# Sobre o projeto
+
+Um app criado com carinho para estudar, evoluir e colocar em prática conceitos de Flutter, organização de código e construção de interfaces responsivas.
